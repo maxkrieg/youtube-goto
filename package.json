@@ -1,0 +1,15 @@
+{
+  "name": "youtube-goto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Krieg <maxwell.krieg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^2.0.2",
+    "googleapis": "^36.0.0"
+  }
+}
